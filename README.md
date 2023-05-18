@@ -36,5 +36,5 @@ Right now, I'm on the lookout for new opportunities to level up my backend devel
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/baharaz78/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/baharayazi/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-af3a03?style=flat&logo=stackoverflow&logoColor=fbf1c7)](https://stackoverflow.com/users/21920395/baharaz78)
