@@ -3,10 +3,9 @@
 
 ### Hey there ✋🏻 I'm **Bahar**
 
-I'm a super motivated and adaptable individual with a solid insurance background, and guess what? I've caught the backend development bug! 🐞 After rocking my graduation from Isfahan University of Technology, I hopped on board the SnappCarfix train and joined their amazing team. Fasten your seatbelts because things are about to get exciting!
-In my journey, I plunged into the operations team, ready to soak up knowledge like a sponge. I even taught myself some fancy tricks like CSS, HTML, and JavaScript through good ol' self-study. And let me tell you, it was a blast! But here's the plot twist: I discovered that my true calling lies in the magical world of backend development. 🚀 So, I took off on an epic adventure to conquer Python, Django, Git, and all their awesome pals.
-I'm not just your average developer, though. I'm the kind of collaborator who can turn any team into a tight-knit crew of superheroes. 💪 Solving complex coding puzzles and embracing challenges? Oh, you bet! And let's not forget the secret to my powers: COFFEE! ☕ It's the fuel that keeps me going and helps me deliver top-notch work every time.
-Right now, I'm on the lookout for new opportunities to level up my backend development skills. I'm itching to bring my expertise and enthusiasm to a team where I can learn, grow, and make a splash! And guess what? I always keep that inner child of mine alive, reminding me to approach challenges with wide-eyed wonder and endless creativity. Because, my friend, it's that sense of wonder that sparks innovation and opens doors to infinite possibilities.
+Hey there! I'm a backend bug-catcher, ready to unleash coding magic! 🐞 After graduating from Isfahan University of Technology, I joined the awesome team at SnappCarfix. I taught myself fancy tricks like CSS, HTML, and JavaScript. But here's the plot twist: my true calling is in backend development. 🚀 So, I embarked on an epic adventure to conquer Python, Django, Git, and their pals.
+Let me share my secret power: COFFEE! ☕ It fuels my top-notch work and keeps me smiling.
+Now, I'm on the hunt for new opportunities to level up my backend skills. I bring expertise, enthusiasm, and a sprinkle of wonder. Ready to join the adventure?
 
 ---
 
